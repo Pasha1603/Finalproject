@@ -97,3 +97,7 @@ void PrintArray(string[] array)
 }
     ```
 ````
+
+_Вывод терминала_
+
+![блок схема](terminal.jpg "Image")
